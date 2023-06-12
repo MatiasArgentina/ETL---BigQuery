@@ -9,7 +9,6 @@ pandas-gbq = "*"
 google-auth = "*"
 google-cloud-bigquery = "*"
 ipykernel = "*"
-tqdm = "*"
 
 [dev-packages]
 
