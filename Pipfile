@@ -9,6 +9,7 @@ pandas-gbq = "*"
 google-auth = "*"
 google-cloud-bigquery = "*"
 ipykernel = "*"
+google-cloud-storage = "*"
 
 [dev-packages]
 
